@@ -2,7 +2,7 @@
 ## 🚀 About me 
 - 🔭 I  have a BSC degree in Computer Science Engineering (GDE 2022-2026)
 - 💬 I'm currently learning Cloud Computing, in a last months (2026 spring) I completted Azure, AWS and Google Cloud Platform fundamentals.
-- 💬 I completted a advanced azure course online more in my linkedin profile.
+- 💬 I completted an advanced azure course online more in my linkedin profile.
 - 📫 How to reach me: https://www.linkedin.com/in/peter-kore/
 - 😄 Pronouns: ... #Cloud , #IaaC, #Linux, #Terminal, #BASH, #Docker, #Java,    
 
