@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Hi there 👋 I am a passionate Computer Science Engineer  with a strong mobile and telecommunicatons skills.
+## 🚀 About me 
+- 🔭 I  have a BSC degree in Computer Science Engineering (GDE 2022-2026)
+# 🌱 Cloud Computing
+ 💬 I'm currently learning Cloud Computing, in a last months (2026 spring) . Aquired skills: Azure, AWS and Google Cloud Platform fundamentals.
+- 💬 I have completted an advanced azure course online, more in my linkedin profile.
+## Tech Stack:  [![My Skills](https://skillicons.dev/icons?i=azure,gcp,ai,docker,linux,git,githubactions)](https://skillicons.dev)
+- 😄 Skills: ... #Cloud , #IaaC, #Linux, #Terminal, #BASH, #Docker, #Java, #Azure, #AWS, #Google Cloud Platform
+## Get in touch
+- 📫 Send a message: https://www.linkedin.com/in/peter-kore/
+- ⚡ My website: https://www.korepeter.hu
 <!--
 **peterkore/peterkore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
