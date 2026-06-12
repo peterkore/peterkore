@@ -15,7 +15,7 @@
   This project is my implementation of the "Cloud Resume Challenge," designed to demonstrate proficiency in cloud engineering and modern web development using the Microsoft Azure ecosystem.
    ## Key Features:
 
-   ### Tech Stack: 
+   ### Tech Stack: HTML, CSS, JS
    Built using "vanilla" JavaScript, HTML, and CSS. By avoiding heavy front-end frameworks, this project focuses on mastering the fundamentals of web architecture.
 
     Cloud Infrastructure: Hosted on Azure Static Web Apps, leveraging the platform's capabilities for seamless deployment and global scalability.
@@ -30,19 +30,21 @@
  highlighting my ability to design, build, and deploy functional applications in a professional cloud environment.
  Link:  https://github.com/peterkore/az-cloud-resume-challenge
   
-  # Custom Device Reservation System for Sports Associations | 
-    
+  # Custom Device Reservation System for Sports Associations
+  
+   ## Tech Stack: Wordpress, PHP, MySQL, HTML, ReactJS
     Project Scope: Conceptualized, designed, and developed a full-stack, automated online booking and inventory management system tailored for sports organizations to streamline asset allocation.
-    ### Tech Stack:  Wordpress, PHP, MySQL, HTML, ReactJS
+   
      Modern Frontend Architecture: Built a dynamic, responsive user interface utilizing ReactJS, ensuring a seamless, real-time single-page application (SPA) experience for end-users.
     Robust Backend & Integration: Developed a custom PHP backend integrated within a headless WordPress architecture, implementing custom REST API endpoints for secure data exchange.
     Database Design: Structured and optimized a relational MySQL database to handle complex scheduling logic, user authentication, and concurrent reservation handling without conflicts.
   Link: https://github.com/peterkore/sebooking
-
- ## Project Overview: Object-Oriented Programming Assignment
-
+# Object-Oriented Programming Assignment
+## Tech Stack: Python
+ ### Project Overview: Object-Oriented Programming Assignment
+    
     Core Purpose: This university project repository is dedicated to demonstrating the practical implementation of foundational Object-Oriented Programming (OOP) principles.
-   ### Tech Stack: Python
+
     Technical Implementation: The codebase focuses on applying key software architecture concepts, including encapsulation, inheritance, polymorphism, and abstraction.
 
     Design & Quality: By organizing the application into reusable, well-structured classes, the project highlights clean coding standards and efficient data management.
