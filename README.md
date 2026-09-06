@@ -1,68 +1,59 @@
-## Hi there 👋 I am a passionate Computer Science Engineer  with a strong mobile and telecommunicatons skills.
-## 🚀 About me 
-- 🔭 I  have a BSC degree in Computer Science Engineering (GDE 2022-2026)
-# 🌱 Cloud Computing
- 💬 I'm currently learning Cloud Computing, in a last months (2026) . Aquired skills: Azure,AZ-900 exam, AWS and Google Cloud Platform fundamentals.
-- 💬 I have completted an advanced azure course online, more in my linkedin profile.
-## Tech Stack:  [![My Skills](https://skillicons.dev/icons?i=azure,gcp,ai,docker,linux,git,githubactions)](https://skillicons.dev)
-- 😄 Skills: ... #Cloud , #IaaC, #AI, #AISCRIPT, #Claude, #Linux, #Terminal, #BASH, #Docker, #Java, #Azure, #AWS, #Google Cloud Platform , #ReactJS, #SQL, #Python
-## Get in touch
-- 📫 Send a message: https://www.linkedin.com/in/peter-kore/
-- ⚡ My website: https://www.korepeter.hu
+# Hi, I'm Peter Kore 👋
 
- ## Projects:
-  # Cloud Resume Challenge
-  This project is my implementation of the "Cloud Resume Challenge," designed to demonstrate proficiency in cloud engineering and modern web development using the Microsoft Azure ecosystem.
-   ## Key Features:
+Computer Science Engineer transitioning into **Cloud Support / Cloud Engineering**, backed by 8+ years of technical customer-facing experience in telecommunications.
 
-   ### Tech Stack: HTML, CSS, JS
-   Built using "vanilla" JavaScript, HTML, and CSS. By avoiding heavy front-end frameworks, this project focuses on mastering the fundamentals of web architecture.
+- 🎓 BSc in Computer Science Engineering (GDE, 2022–2026)
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 📚 Azure Advanced Training — Gerilla Mentor Klub (GMK)
+- 🎯 Currently preparing for **AZ-104: Azure Administrator** (exam scheduled September 2026)
+- 💼 8 years at Magyar Telekom — B2B/B2C Senior Technical Telecommunications Representative
+- 📫 [LinkedIn](https://www.linkedin.com/in/peter-kore/) · [Portfolio site](https://korepeter.hu)
 
-    Cloud Infrastructure: Hosted on Azure Static Web Apps, leveraging the platform's capabilities for seamless deployment and global scalability.
+---
 
-    Development Workflow: Configured with a dedicated .devcontainer to ensure a consistent, containerized development environment using GitHub Codespaces or VS Code Remote Containers.
+## 🌟 Featured Project: Cloud Resume Challenge
 
-    Cloud-Native Approach: Designed to showcase core cloud competencies, including CI/CD automation, infrastructure-as-code principles, and serverless concepts.
+My implementation of the industry-recognized [Cloud Resume Challenge](https://cloudresumechallenge.dev/) — built to demonstrate real, hands-on Azure cloud engineering skills, not just certifications.
 
- ## Objective:
+**Stack:** HTML, CSS, JavaScript (vanilla — no frameworks, to focus on core web fundamentals)
 
- The primary goal of this project is to apply my knowledge of Azure cloud services in a practical, real-world scenario. It serves as a cornerstone of my transition into cloud engineering, 
- highlighting my ability to design, build, and deploy functional applications in a professional cloud environment.
- Link:  https://github.com/peterkore/az-cloud-resume-challenge
-  
-  # Custom Device Reservation System for Sports Associations
-  
-   ## Tech Stack: Wordpress, PHP, MySQL, HTML, ReactJS
-    Project Scope: Conceptualized, designed, and developed a full-stack, automated online booking and inventory management system tailored for sports organizations to streamline asset allocation.
-   
-     Modern Frontend Architecture: Built a dynamic, responsive user interface utilizing ReactJS, ensuring a seamless, real-time single-page application (SPA) experience for end-users.
-    Robust Backend & Integration: Developed a custom PHP backend integrated within a headless WordPress architecture, implementing custom REST API endpoints for secure data exchange.
-    Database Design: Structured and optimized a relational MySQL database to handle complex scheduling logic, user authentication, and concurrent reservation handling without conflicts.
-  Link: https://github.com/peterkore/sebooking
-# Object-Oriented Programming Assignment
-## Tech Stack: Python
- ### Project Overview: Object-Oriented Programming Assignment
-    
-    Core Purpose: This university project repository is dedicated to demonstrating the practical implementation of foundational Object-Oriented Programming (OOP) principles.
+**What it demonstrates:**
+- ☁️ Deployment on **Azure Static Web Apps**
+- 🔁 CI/CD automation
+- 🏗️ Infrastructure-as-code principles
+- 🐳 Consistent dev environment via `.devcontainer` (GitHub Codespaces / VS Code Remote Containers)
+- ⚙️ Serverless architecture concepts
 
-    Technical Implementation: The codebase focuses on applying key software architecture concepts, including encapsulation, inheritance, polymorphism, and abstraction.
+🔗 [View the project](https://github.com/peterkore/az-cloud-resume-challenge)
 
-    Design & Quality: By organizing the application into reusable, well-structured classes, the project highlights clean coding standards and efficient data management.
+---
 
-    Professional Value: Ultimately, this repository serves as a solid showcase of structural software engineering skills and disciplined programmatic problem-solving.
-    
-  Link: https://github.com/peterkore/kp-obj_or_prog
-<!--
-**peterkore/peterkore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Core Skills
 
-Here are some ideas to get you started:
+**Cloud & Infrastructure:** Azure · AWS (fundamentals) · Google Cloud (fundamentals) · Infrastructure-as-Code
+**Systems:** Linux · Bash/Terminal · Networking fundamentals
+**Dev & Tooling:** Git · Python · SQL · Docker
+**Frontend (secondary):** ReactJS
+**AI Tools:** Practical use of Claude and AI-assisted development workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📁 Other Projects
+
+### [Custom Device Reservation System](https://github.com/peterkore/sebooking)
+Full-stack booking and inventory management system for sports organizations.
+**Stack:** WordPress (headless), PHP, MySQL, ReactJS
+- Built a real-time single-page application front end
+- Designed a custom PHP/REST API backend
+- Modeled a relational database handling concurrent reservations without conflicts
+
+### [Object-Oriented Programming Assignment](https://github.com/peterkore/kp-obj_or_prog)
+University project applying core OOP principles (encapsulation, inheritance, polymorphism, abstraction) in Python — organized into clean, reusable classes.
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: [in/peter-kore](https://www.linkedin.com/in/peter-kore/)
+- Website: [korepeter.hu](https://korepeter.hu)
+- Email: kore.peter@gmail.com
