@@ -5,7 +5,7 @@
  💬 I'm currently learning Cloud Computing, in a last months (2026) . Aquired skills: Azure,AZ-900 exam, AWS and Google Cloud Platform fundamentals.
 - 💬 I have completted an advanced azure course online, more in my linkedin profile.
 ## Tech Stack:  [![My Skills](https://skillicons.dev/icons?i=azure,gcp,ai,docker,linux,git,githubactions)](https://skillicons.dev)
-- 😄 Skills: ... #Cloud , #IaaC, #Linux, #Terminal, #BASH, #Docker, #Java, #Azure, #AWS, #Google Cloud Platform , #ReactJS, #SQL, #Python
+- 😄 Skills: ... #Cloud , #IaaC, #AI, #AISCRIPT, #Claude, #Linux, #Terminal, #BASH, #Docker, #Java, #Azure, #AWS, #Google Cloud Platform , #ReactJS, #SQL, #Python
 ## Get in touch
 - 📫 Send a message: https://www.linkedin.com/in/peter-kore/
 - ⚡ My website: https://www.korepeter.hu
