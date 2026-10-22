@@ -5,7 +5,7 @@ Computer Science Engineer transitioning into **Cloud Support / Cloud Engineering
 - 🎓 BSc in Computer Science Engineering (GDE, 2022–2026)
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 📚 Azure Advanced Training — Gerilla Mentor Klub (GMK)
-- 🎯 Currently preparing for **AZ-104: Azure Administrator** (exam scheduled September 2026)
+- 🎯 Currently preparing for **AZ-104: Azure Administrator** 
 - 💼 8 years at Magyar Telekom — B2B/B2C Senior Technical Telecommunications Representative
 - 📫 [LinkedIn](https://www.linkedin.com/in/peter-kore/) · [Portfolio site](https://korepeter.hu)
 
